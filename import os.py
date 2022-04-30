@@ -1,0 +1,1 @@
+'My age is ' + str(42)
